@@ -4,6 +4,7 @@ Results and Code used for the research Introducing NBEATSx to Realized Volatilit
 Authors: Hugo Gobato Souto and Amir Moradi*
 
 *Corresponding author, 
+
 International School of Business at HAN University of Applied Sciences, Ruitenberglaan 31, 6826 CC Arnhem, the 
 Netherlands; amir.moradi@han.nl; ORCID code: 0000-0003-1169-7192
 
